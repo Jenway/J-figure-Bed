@@ -12,16 +12,15 @@ http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/bocchi_the_rock (
 http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/bocchi_the_rock (8).png
 http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/bocchi_the_rock (9).png
 http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/bocchi_the_rock.png
+http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/cat.jpg
 http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/ERI (1).jpg
 http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/ERI (2).jpg
-http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/ERI.jpg
-http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/ERI2.jpg
-http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/ERI3.jpg
-http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/eva (27).jpg
-http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/eva (29).jpg
-http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/eva.jpg
-http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/eva10.jpg
+http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/ERI (3).jpg
+http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/eva (1).jpg
+http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/eva (2).jpg
+http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/eva (3).jpg
+http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/ichia.jpg
 http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/Ichigo.jpg
-http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/kita.jpg
 http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/ryoFromBTR.jpg
+http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/shana.png
 http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/Shinji.jpg
