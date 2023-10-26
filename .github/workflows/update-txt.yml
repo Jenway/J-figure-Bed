@@ -1,0 +1,26 @@
+name: Update Txt File
+
+on:
+  push:
+    branches:
+      - master  # 根据你的主分支名称调整
+
+jobs:
+  update-txt:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v4.1.0
+
+    - name: Update Txt File
+      run: |
+        python script.py
+        # 推送更新到仓库
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add .
+        git commit -m "Update img.txt file"
+        git push origin master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
