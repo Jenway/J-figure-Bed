@@ -8,7 +8,7 @@ def get_file_list(dir):
     file_list = []
     for root, dirs, files in os.walk(dir):
         for file in files:
-            if file.endswith('.jpg') or file.endswith('.png'):
+            if file.endswith('.webp'):
                 file = pic_prefix + file
                 file_list.append(file)
                 print("file: " + file + " added")
