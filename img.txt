@@ -1,3 +1,4 @@
+http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/cover42.webp
 http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/cover17.webp
 http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/cover27.webp
 http://fastly.jsdelivr.net/gh/jenway/J-figure-bed@master/cover/cover28.webp
